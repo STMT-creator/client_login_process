@@ -1,0 +1,26 @@
+.title{
+    color: green;
+}
+.sub-title{
+    color: blue;
+}
+h1, h2 {
+    text-align: center;
+}
+input{
+    display: inline;
+    padding: 10px 20px;
+    margin: 10px 0  
+}
+#login {
+    background-color: green;
+    color: white;
+    padding: 10px 85px;
+}
+#login_form {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 50px 0px;
+    width: 50%;
+    margin: auto;
+}
